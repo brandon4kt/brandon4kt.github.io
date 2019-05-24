@@ -1,15 +1,19 @@
 body {
-   backgroud-image: url;
-   color: #5555555;
-   backgroud-size:cover;
-   text-align: left;
-   vertical-align: bottom;
-   text-shadow: #119911;
+background-image: url('images/background.jfif');
+color: #FFFFFF;
+background-size: cover;
+text-align: left;
+vertical-align: bottom;
+text-shadow: #00000;
 }
 .button {
-    backgroud-color: #000000;
-    border: none;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;  
+background-color: #000000;
+border: none;
+color: white;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 18px;
+margin: 5px 5px;
+cursor: pointer;
+}
